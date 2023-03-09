@@ -38,7 +38,7 @@ public class Main {
                 31, 54, 21);
 
 
-        Ravenclaw dgouChang = new Ravenclaw(15, 31, "Чжоу", "Чанг",
+        Ravenclaw dgouChang = new Ravenclaw(89, 31, "Чжоу", "Чанг",
                 31,32, 32, 34);
         Ravenclaw padmaPlati = new Ravenclaw(33, 34, "Падма", "Патил",
                 13,23, 33, 43);
@@ -58,8 +58,7 @@ public class Main {
         getBestStudentOfFacultyRavenclaw(padmaPlati,markusBelbi);
 
 //      Сравниваем магию по школе
-        compareTwoHogwartsWizards(dgouChang, gastinFinch);
-
+        compareTwoHogwartsWizards(dgouChang, padmaPlati);
     }
 
 }

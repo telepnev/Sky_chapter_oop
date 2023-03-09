@@ -64,4 +64,5 @@ public class Hufflepuff extends Hogwarts {
         }
         System.out.println();
     }
+
 }

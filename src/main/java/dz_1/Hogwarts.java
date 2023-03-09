@@ -66,4 +66,5 @@ public class Hogwarts {
         }
         System.out.println();
     }
+
 }
